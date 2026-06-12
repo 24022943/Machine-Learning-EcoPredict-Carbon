@@ -2,10 +2,6 @@
 imbalance_handler.py
 Utilities xử lý mất cân bằng lớp cho EcoPredict Carbon.
 
-Mục tiêu:
-- Không để lớp phát thải cao bị bỏ sót chỉ vì số mẫu ít.
-- Ưu tiên F1-macro, Balanced Accuracy và Recall lớp High thay vì chỉ Accuracy.
-- Hỗ trợ SMOTE nếu cài imbalanced-learn; nếu chưa cài thì fallback an toàn.
 """
 from __future__ import annotations
 
