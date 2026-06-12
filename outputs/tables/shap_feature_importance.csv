@@ -1,0 +1,429 @@
+feature,mean_abs_shap
+lca_proxy_pcf,0.15181312811156988
+openpcf_factor_kgco2e_per_kg,0.14915186842094283
+industry_group_Technology Hardware & Equipment,0.01617733500188774
+product_name_length,0.013444001916697675
+company_sector_Technology Hardware & Equipment,0.012586699946468636
+company_sector_Chemicals,0.010167896384210375
+product_detail_length,0.009165347799432389
+company_sector_Materials,0.007841379505616366
+company_sector_Energy,0.0075345414169889465
+industry_group_Materials,0.006962964378424768
+industry_group_Energy,0.006099731575800928
+industry_group_Chemicals,0.0037385208891204226
+product_weight_kg,0.002698560194612246
+industry_Iron Ore,0.0026260409519188173
+industry_Concrete (Precast Slab),0.002443035337273954
+industry_group_Manufacturing,0.0023031484350051327
+industry_Hydrogen,0.0023005852184938636
+stage_level_available_Estimated,0.002286001476638002
+product_weight_log,0.002266740302493348
+ceda_proxy_pcf,0.0022330661059633537
+industry_Concrete,0.0021379212299810118
+functional_unit_type_Product reported unit,0.002075856908422605
+protocol_simple_OpenPCF,0.0019731496423646016
+company_sector_Manufacturing,0.0019508955182986302
+industry_Titanium,0.0019227268376061971
+weight_category_Light (1-10 kg),0.001905110687771247
+system_boundary_Reported PCF boundary,0.0017901800077747235
+upstream_frac,0.0017585605343971617
+industry_Neodymium Magnet,0.0016512350242600218
+industry_Biomethanol,0.0015752253504793623
+industry_Silicon Wafer (Solar),0.0015584030002797767
+industry_Magnesium,0.0015357770428846749
+industry_Polyester Fabric,0.0014789265137417232
+industry_Methanol (Gas Reformation),0.0014368479072383667
+industry_Terephthalic Acid,0.001420887582893623
+industry_Rubber (Natural),0.0013718604981688882
+industry_Teflon (Ptfe),0.001365454120017108
+industry_Silicon Ingot (Solar),0.0012561527739881778
+industry_Cement,0.0012349747543891475
+industry_Nylon 6 Fabric,0.001208140316436831
+industry_Gasoline,0.0011833181498418905
+industry_Silicon (Electronics),0.0011627395151914035
+data_source_OpenPCF by Terralytiq,0.0011544212675896075
+industry_Lpg,0.0011428596347537931
+ceda_factor_kgco2e_per_usd,0.0011305483422185438
+industry_Glycerine (From Palm Oil),0.001124963275297089
+year,0.0011140333943110432
+industry_Glucose,0.001080910854405212
+"company_sector_Food, Beverage & Tobacco",0.0010678521516360375
+industry_Fertilizer,0.0010573486159971323
+industry_Ferrite,0.0010425453967070901
+industry_Rubber (Epdm),0.0010005424407886951
+industry_Nitric Acid,0.0009925419481703031
+industry_Silicon (Solar),0.0009512828152445711
+industry_Heavy Naphtha,0.0008782822114722459
+industry_Aluminum (Foil),0.0008660750396316647
+"industry_group_Food, Beverage & Tobacco",0.0008450555770813206
+industry_Silicon Ingot (Electronics),0.0008261477155831115
+industry_Paper (Kraftliner),0.0008055172061215538
+industry_Bioethylene (Wood Crop),0.0008028460514484553
+industry_Actuator Coil,0.0007995179314330482
+industry_Cotton Fabric,0.0007869802238210707
+industry_Silicon (Metallurgical),0.0007864004206631877
+industry_Pcba,0.0007611625326241054
+industry_Ethylene (Ethane Cracking),0.0007485268758929117
+industry_Steel,0.0007256347952625022
+industry_Plywood,0.0007127374137987183
+company_sector_Packaging,0.0007062449456725201
+downstream_x_weight_log,0.00070460583330192
+industry_Battery Anode (Graphite),0.0006982040150286522
+"industry_Steel (Sheet, Hot-Rolled)",0.0006937437748011059
+system_boundary_Cradle-to-gate factor,0.0006887239496447021
+industry_Electronic Box Build Assembly,0.000673531764620149
+industry_Abs,0.0006638210840112378
+industry_Aluminum,0.0006579386576107158
+industry_Cast Iron,0.0006562129235749077
+industry_Butane,0.0006561571092721753
+industry_Aluminum Rod (Machined),0.0006529345244199949
+"industry_Iron (Pig, Sinter)",0.00063214215830462
+industry_Glass,0.0006275959229775764
+downstream_frac,0.0006254085490686598
+industry_Alumina,0.0006230874394274702
+year_offset,0.0006227179173202271
+industry_Diesel,0.0005978189011762034
+weight_source_Estimated from external data based on product description,0.0005690630955239161
+industry_Rotor,0.0005496897547918398
+company_sector_Textiles & Apparel,0.0005331653898547957
+weight_category_Very heavy (>1000 kg),0.0005311376342920151
+industry_group_Textiles & Apparel,0.0005154374793382695
+industry_Nylon 66 Fabric,0.000502164367725343
+industry_Steel (Machined),0.0004975052125299074
+upstream_x_weight_log,0.0004968827104436033
+industry_Solar Cell (Mono-Si),0.0004936784242913238
+"industry_Steel (Crude, Sinter)",0.0004920803685114628
+industry_Aluminum (Sheet),0.00047497170127737095
+"industry_Steel (Sheet, Cold-Rolled)",0.00047312180483324395
+industry_Battery Cathode (Nmc 811),0.00046587060606379215
+industry_Bauxite,0.00044576198149144544
+industry_Kerosene,0.00043693694049055145
+industry_Copper,0.00043375891387333564
+industry_Propylene (Lpg Cracking),0.00041450608260783646
+functional_unit_type_1 kg material/product,0.00040977638806805505
+industry_Polystyrene,0.000406881949211655
+industry_Ethane,0.0004048817179386899
+industry_Pcb,0.00040349652044732823
+industry_Acetic Acid (Gas),0.0003820535148858943
+industry_Fluorobenzene,0.00037757651964351156
+industry_Polyurethane (Pu),0.00037181327477574906
+industry_Propane,0.0003706524092631137
+industry_Stainless Steel,0.00037034762608313627
+industry_Epoxy Resin,0.00036763457915777196
+industry_group_Packaging,0.00036375010538840653
+industry_Fiberglass,0.0003569066089198061
+industry_Benzoyl Chloride,0.0003557430936110837
+dominant_stage_Upstream,0.00034471989257645194
+industry_Steel (Electrical),0.0003405514715098751
+industry_Corrugated Box,0.0003281724810004176
+industry_Steel (Cast),0.0003227855478265812
+industry_Aluminum (Stamped),0.0003223723424361497
+"industry_Steel (Crude, Pellet)",0.0003166363038281736
+industry_Aluminum Casting (Machined),0.00031057172228120126
+industry_Propylene (Fcc),0.0003078975201147004
+industry_Proplyene Oxide,0.00029960145385919516
+industry_Brass,0.00028708975807706724
+industry_Steel (Stamped),0.0002799924830389466
+industry_Integrated Circuit (14Nm),0.00027884161610942747
+industry_Benzene,0.00026845878456085553
+industry_Battery Cell (Nmc 811),0.00026498003085131765
+industry_Bioethanol (Starch Crop),0.0002637878997226703
+industry_Acetic Acid (Coal),0.0002537023392761283
+industry_Bioethanol (Sugar Crop),0.0002525395835879672
+industry_Bioethylene (Sugar Crop),0.00024527874780654757
+industry_Steel (Rod And Bar),0.00024164286464077294
+weight_category_Very light (<1 kg),0.00023959506365087924
+lifecycle_balance_std,0.00023472979965313883
+industry_Nickel,0.00022207021793673693
+operations_frac,0.00021848049838727265
+industry_Iron,0.0002182042542104295
+industry_Polyvinyl Chloride (Pvc),0.00021721610621121336
+industry_Steel (Galvanized),0.0002164166037392874
+industry_Aluminum (Extrusion),0.0002162629782619734
+industry_Glycerine,0.00021528889662269065
+industry_Silicon Wafer (Electronics),0.00021018192835817756
+industry_Polyvinyl Acetate (Pvac),0.00020879248961490663
+industry_Methanol (E-Fuel),0.00020610987347967864
+industry_Stator,0.0002020734793188178
+industry_Bioethylene (Starch Crop),0.0002003330240956556
+is_weight_estimated,0.00019986479093956122
+"industry_Iron (Pig, Pellet)",0.0001977954761489214
+industry_Propylene Glycol,0.00019740455723070964
+industry_Polycarbonate,0.00019596730917101061
+industry_Vinyl Acetate,0.00018079726700921447
+industry_Ammonia,0.000176008334941492
+"industry_Ceramic (Barium Titanate, Bt)",0.00016859139276840225
+protocol_simple_ISO,0.0001651393983953202
+industry_Ethylene Glycol,0.0001589200351971714
+has_eol_data,0.0001575463962899186
+industry_Titanium Dioxide,0.0001572571441017714
+company_sector_Food & Beverage,0.00014937183047790495
+data_source_Carbon Catalogue,0.0001450050453502211
+industry_Polyether Ether Ketone (Peek),0.0001397796221072165
+weight_source_Functional unit 1 kg,0.000138877258762105
+lifecycle_fraction_sum,0.00013807457048289282
+transport_frac,0.00013766222953616442
+"company_sector_Home durables, textiles, & equipment",0.0001325636223223858
+industry_Polypropylene (Lpg Cracking),0.00013236299499451586
+protocol_simple_GHG Protocol,0.00013193708736963848
+industry_Mdi,0.00012516443002512928
+protocol_simple_Unknown,0.0001244418264677552
+dominant_stage_Downstream,0.00012415585101115885
+industry_Light Naphtha,0.00012295173447418134
+country_USA - Louisiana,0.0001189363495762855
+industry_Phenol,0.00011384552742553995
+transport_x_weight_log,0.00010846405509494199
+industry_Hydroquinone,0.00010113058168182191
+industry_Zinc,9.736249759038623e-05
+country_Taiwan,9.714957827159527e-05
+industry_Methanol (Coal Gasification),9.677415320159706e-05
+industry_Beverages,9.641984501863617e-05
+operations_x_weight_log,9.628478282267889e-05
+country_USA - Illinois,9.615877925896889e-05
+industry_Copper (Tubing),9.496438898196401e-05
+country_China - Beijing,9.024024671094925e-05
+lifecycle_max_share,8.919179169295789e-05
+country_Slovakia,8.839815885494823e-05
+country_USA - Colorado,8.451016801611554e-05
+country_United States Of America,8.181372162571968e-05
+company_sector_Packaging for consumer goods,8.093315115080004e-05
+industry_Copper (Wire),7.789798740650743e-05
+country_Italy,7.758486032551094e-05
+weight_source_As per company's submission to CDP,7.619566982019907e-05
+industry_Sodium Lauryl Sulfate,7.57541238684447e-05
+industry_Polyethylene Terephthalate (Pet),7.556854151962574e-05
+industry_Acetone,7.533477601652393e-05
+country_Spain,7.445150379463994e-05
+industry_group_Media,7.312825375992061e-05
+country_Canada - New Brunswick,7.291798214822253e-05
+industry_Rubber (Styrene-Butadiene),7.18526756804084e-05
+industry_Sorbitol,7.180095478935283e-05
+"company_sector_Computer, IT & telecom",7.108467258672308e-05
+country_Belgium,7.065265329350659e-05
+country_Iceland,6.980715500195579e-05
+country_China - Gansu,6.848965504771034e-05
+country_China - Ningxia,6.779468239073265e-05
+industry_Ethylene (Naphtha Cracking),6.541527849817547e-05
+industry_Polypropylene (Naphtha Cracking),6.479893937655079e-05
+country_China - Tianjin,6.457217265820187e-05
+weight_category_Medium (10-100 kg),6.430487971646207e-05
+industry_Propylene (Naphtha Cracking),6.382309448199215e-05
+country_Australia,6.316505505541491e-05
+has_stage_data,6.2853185292102e-05
+country_Romania,6.118970691418368e-05
+country_USA - Wyoming,6.025106115129711e-05
+industry_Polyethylene (Naphtha Cracking),5.976313217864606e-05
+industry_Butylene (Naphtha Cracking),5.8578009144381304e-05
+country_Luxembourg,5.576669339946503e-05
+country_USA - South Dakota,5.5686167564150254e-05
+country_Russia Central Asia,5.512707259492842e-05
+lifecycle_min_share,5.4716790738795056e-05
+stage_level_available_Yes,5.30884713402595e-05
+country_Finland,5.2129457848541166e-05
+industry_Containers & Packaging,5.121280231928718e-05
+country_Slovenia,5.064354748426168e-05
+country_China - Shanxi,4.972508382986581e-05
+industry_group_Food & Staples Retailing,4.903963469165827e-05
+country_USA - Iowa,4.83272306556038e-05
+country_USA - Arkansas,4.832666481346529e-05
+country_China - Hainan,4.6671386909260125e-05
+country_USA - Kansas,4.567522058572807e-05
+country_USA - New Jersey,4.4946813507258884e-05
+"industry_Textiles, Apparel & Luxury Goods",4.391694093238998e-05
+country_China - Chongqing,4.3128163838821786e-05
+country_Bosnia Herzegovina,4.2339694668151306e-05
+country_Bulgaria,4.2013714829945886e-05
+country_USA - Montana,3.977654372910189e-05
+country_Estonia,3.962087350488894e-05
+country_Asia Pacific,3.931193193808327e-05
+country_China - Henan,3.894062472269972e-05
+country_China - Qinghai,3.779116548833915e-05
+industry_Food Products,3.726037964710918e-05
+country_China - Shaanxi,3.684438273536418e-05
+country_Sweden,3.673181596499426e-05
+country_France,3.672069163185436e-05
+country_Malaysia,3.64271111198398e-05
+country_Canada - Manitoba,3.588886823940663e-05
+country_USA - Michigan,3.556348392774278e-05
+industry_Media,3.544351611637072e-05
+company_sector_Automobiles & components,3.492642349999717e-05
+country_Montenegro,3.365160356274922e-05
+country_China - Jiangsu,3.330396449752629e-05
+country_China - Heilongjiang,3.318949645215464e-05
+country_China,3.282926881008617e-05
+country_Indonesia,3.27077305421502e-05
+country_Brazil,3.205154158099299e-05
+country_Canada - British Columbia,3.199120928471632e-05
+country_China - Zhejiang,3.1934902377841046e-05
+country_Latvia,3.168462046368916e-05
+country_USA - New York,3.151857114309867e-05
+country_Ireland,3.053882259214089e-05
+country_Switzerland,2.983416059523122e-05
+stage_level_available_No,2.9418960477712584e-05
+has_transport_data,2.9345042076832684e-05
+country_Japan,2.9265845631140654e-05
+country_Canada - Saskatchewan,2.9231901571604944e-05
+country_Global,2.9220777307378445e-05
+country_Croatia,2.888819250232122e-05
+country_USA - Kentucky,2.8463885638382562e-05
+country_USA - Ohio,2.8306225453783104e-05
+country_USA - Oklahoma,2.7649906973526443e-05
+country_USA - Massachusetts,2.7604015602008392e-05
+country_USA - Indiana,2.755437999895776e-05
+country_China - Greater Area,2.754181439416563e-05
+country_Netherlands,2.7331934165766826e-05
+country_China - Tibet,2.654813455071712e-05
+country_Colombia,2.6498617099377152e-05
+country_China - Shanghai,2.6323374614796298e-05
+industry_Software,2.611785366706939e-05
+country_Middle East North Africa,2.5799894115953868e-05
+country_China - Guangxi,2.5632287306253994e-05
+country_Germany,2.5129616644075357e-05
+country_China - Sichuan,2.5118580558148077e-05
+country_Canada - Quebec,2.4985441592526094e-05
+country_Hungary,2.4788167659573545e-05
+country_USA - Washington,2.42864962146764e-05
+industry_Chemicals,2.4226533806121442e-05
+industry_Not used for 2015 reporting,2.4027700831240567e-05
+country_Canada - Newfoundland And Labrador,2.2884830804911795e-05
+country_China - Jilin,2.280957439503143e-05
+country_China - Xizang,2.2634969202975773e-05
+"industry_group_Textiles, Apparel, Footwear and Luxury Goods",2.196296333555148e-05
+country_China - Guizhou,2.1948303416747013e-05
+country_Ukraine,2.1785766448779673e-05
+country_Albania,2.1651802684189095e-05
+country_USA - Minnesota,2.146735334762386e-05
+country_India South Asia,2.1400037446092832e-05
+country_USA - New Hampshire,2.1216461051637096e-05
+country_USA - New Mexico,2.1095711484255484e-05
+country_USA - Rhode Island,2.101643062318906e-05
+country_Norway,2.0849915081839337e-05
+industry_Polypropylene Glycol (Ppg),2.005225816325943e-05
+country_USA - Maryland,1.9844857165220132e-05
+country_South Korea,1.9771560405503318e-05
+country_Singapore,1.9498397121531577e-05
+country_USA - Nebraska,1.9200336285071047e-05
+country_USA - Florida,1.9059635733464567e-05
+country_Canada - Northwest Territories,1.8920353135933783e-05
+country_Canada - Nova Scotia,1.8859268160084894e-05
+country_China - Yunnan,1.8807712324958463e-05
+country_Austria,1.8537666752919856e-05
+"industry_Electronic Equipment, Instruments & Components",1.848493935800371e-05
+country_Canada - Ontario,1.8367526435318412e-05
+country_Poland,1.83574564637063e-05
+country_United Arab Emirates,1.7840539947999105e-05
+protocol_simple_Other,1.78229209667483e-05
+industry_Ethylene Vinyl Acetate (Eva),1.7760207958149408e-05
+country_India,1.7615218980580976e-05
+country_Argentina,1.745504969152317e-05
+country_Denmark,1.727224804206739e-05
+country_USA - California,1.722146498931976e-05
+country_Canada - Nunavut,1.709663203630226e-05
+end_of_life_frac,1.659946825614258e-05
+country_Malta,1.6318459506327928e-05
+country_Canada - Newfoundland Labrador,1.611125157039941e-05
+country_China - Inner Mongolia,1.6090948517667903e-05
+country_Advanced Asia Oceania,1.59856350466038e-05
+industry_Commercial Services & Supplies,1.5812887828955035e-05
+country_Oman,1.5589843341287947e-05
+industry_group_Food & Beverage Processing,1.5583408011815123e-05
+country_Canada,1.5102026731724544e-05
+country_China - Hunan,1.4745415496724514e-05
+country_Thailand,1.469685639487036e-05
+country_China - Hubei,1.4638422835559385e-05
+country_USA - District Of Columbia,1.43948046731798e-05
+country_China - Xinjiang,1.4161643335207164e-05
+country_Greece,1.406062687565183e-05
+company_sector_Comm. equipm. & capital goods,1.3825173074341941e-05
+country_China - Fujian,1.368983832404198e-05
+country_Turkey,1.3513936064257256e-05
+country_Morocco,1.3431785896808936e-05
+country_North America,1.342550958265249e-05
+industry_group_Consumer Durables & Apparel,1.3113810870368089e-05
+country_United Kingdom,1.284794941682228e-05
+industry_Computers & Peripherals,1.2668791926648938e-05
+country_Canada - Prince Edward Island,1.224802871078673e-05
+country_USA - Virginia,1.2244491364350782e-05
+country_USA - South Carolina,1.1936780757316752e-05
+country_Portugal,1.1823046019738506e-05
+country_USA - Missouri,1.1259302971185492e-05
+industry_group_Semiconductors & Semiconductors Equipment,1.1196129342884103e-05
+country_USA - Pennsylvania,1.1079802639945305e-05
+country_China - Jiangxi,1.0632133151037299e-05
+dominant_stage_Operations,1.0571860568436628e-05
+country_USA - Alaska,1.0553767098548216e-05
+country_Russia,9.975544751940287e-06
+country_North Macedonia,9.90002082961942e-06
+country_USA - Texas,9.316983009191828e-06
+country_USA - West Virginia,9.30955820568551e-06
+country_Serbia,8.943375267206643e-06
+country_China - Liaoning,8.77531088204131e-06
+country_USA - Delaware,8.481023966929841e-06
+protocol_simple_PAS 2050,8.345079592278334e-06
+industry_Electrical Equipment,8.296529210602162e-06
+industry_Communications Equipment,8.218350078475823e-06
+country_China -Gansu,8.03247078657631e-06
+country_China - Guangdong,7.89942663014758e-06
+country_USA - Hawaii,7.839445382461488e-06
+country_Canada - Alberta,7.574489602474929e-06
+country_USA - Mississippi,7.2512568728095625e-06
+country_Philippines,7.081812850365799e-06
+country_Europe,7.040192424952472e-06
+country_Mexico,7.015643237485029e-06
+country_Latin America,6.997161319115184e-06
+country_USA - Idaho,6.688732397588386e-06
+country_Canada - Yukon,6.589048898072968e-06
+country_Czechia,6.542781155996555e-06
+country_USA - Vermont,6.485389828730211e-06
+industry_Food & Staples Retailing,5.853617436963105e-06
+country_USA - Connecticut,5.580163139056178e-06
+country_USA - Arizona,5.462388969566743e-06
+country_USA - Georgia,5.341342806962088e-06
+country_USA - North Dakota,4.91585820381165e-06
+country_Lithuania,4.760729443424497e-06
+country_USA - Oregon,4.759096314397318e-06
+country_China - Shandong,4.614264134370596e-06
+country_Vietnam,4.575313853655827e-06
+country_Sub Saharan Africa,4.549621976617553e-06
+country_USA - Alabama,4.482796977868825e-06
+country_USA - Nevada,4.334502775130575e-06
+industry_infrequent_sklearn,4.25241425152685e-06
+country_Chile,4.099115225153961e-06
+industry_Semiconductors & Semiconductor Equipment,3.704362514034111e-06
+country_China - Hebei,3.4971381323532295e-06
+weight_category_Heavy (100-1000 kg),3.429161692155462e-06
+country_South Africa,3.400330259430178e-06
+industry_group_Containers & Packaging,3.328843228067842e-06
+country_Hong Kong,3.28000482720446e-06
+industry_group_Commercial & Professional Services,3.2359120089815788e-06
+industry_Polyethylene (Ethane Cracking),2.4794729372231454e-06
+industry_Office Electronics,2.391906768230687e-06
+country_USA - Tennessee,2.215762208092167e-06
+country_USA - Maine,2.2015054326850263e-06
+country_USA - Utah,1.8671413081086286e-06
+industry_group_Electrical Equipment and Machinery,1.6769702294860812e-06
+industry_group_Software & Services,1.4592097962242584e-06
+industry_Household Durables,1.3734273340564117e-06
+industry_group_Automobiles & Components,5.528141184531195e-07
+industry_Auto Components,2.6127616970780397e-07
+country_USA - Wisconsin,1.8658623421261054e-07
+country_USA - North Carolina,1.1903071663448931e-18
+transport_improvement_pct,0.0
+renewable_energy_pct,0.0
+material_reduction_pct,0.0
+industry_Automobiles,0.0
+"industry_group_Consumer Durables, Household and Personal Products",0.0
+industry_group_Capital Goods,0.0
+"industry_group_Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber",0.0
+industry_group_Semiconductors & Semiconductor Equipment,0.0
+"industry_group_Mining - Iron, Aluminum, Other Metals",0.0
+industry_group_Tires,0.0
+industry_group_infrequent_sklearn,0.0
+industry_Trading Companies & Distributors,0.0
+industry_Building Products,0.0
+"industry_Oil, Gas & Consumable Fuels",0.0
+industry_Paper & Forest Products,0.0
+country_Moldova,0.0
+industry_Metals & Mining,0.0
+company_sector_Construction & commercial materials,0.0
+future_year_gap,0.0

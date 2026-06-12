@@ -1,0 +1,13 @@
+,value
+n_training_rows,12000
+n_carbon_catalogue_rows,866
+n_openpcf_rows,22886
+n_open_ceda_factors,59600
+data_sources,"{'OpenPCF by Terralytiq': 11536, 'Carbon Catalogue': 464}"
+final_label_distribution,"{'train': {'Medium': 4755, 'Low': 2463, 'High': 2382}, 'test': {'Medium': 1188, 'Low': 616, 'High': 596}}"
+year_min,2013
+year_max,2025
+pcf_min,0.00043
+pcf_median,2.5
+pcf_mean,390.4057692358333
+pcf_max,99075.0

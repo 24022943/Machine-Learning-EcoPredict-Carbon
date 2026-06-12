@@ -1,0 +1,1002 @@
+;;;;;;;;;;;;;;;;;;;;;;;;United States;Abrasive product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;Units labels;United Kingdom;Accommodation
+;;;;;;;;;;;;;;;;;;;;;;;Emission factor in;China;Accounting, tax preparation, bookkeeping, and payroll services
+;;;;;;;;;;;;;;;;;;;;;;;kg CO? eq;South Korea;Adhesive manufacturing
+;;;;;;Database parameter selection;;;;;;;;;;;;;;;;;kg CO? eq / 1000 Yen;Japan;Advertising, public relations, and related services
+;;;;;;;;;;;;;;;;;;;;;;;;Afghanistan;Air and gas compressor manufacturing
+;;;;;;Year;2025;;;;;;;;;;;;;;;;;Albania;Air conditioning, refrigeration, and warm air heating equipment manufacturing
+;;;;;;Currency;1000 Yen;;;;;;;;;;;;;;;;;Algeria;Air transportation
+;Release date;;November 11, 2025;;;Price type;Producer price;;;;;;;;;;;;;;;;;Angola;Aircraft engine and engine parts manufacturing
+;Version;;CEDA 2025;;;;;;;;;;;;;;;;;;;;;Antigua and Barbuda;Aircraft manufacturing
+;License;;CC BY-SA 4.0;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;Attribution;;;;;;;;;;;;;;;;;;;;;;;Argentina;All other chemical product and preparation manufacturing
+;"Open CEDA users agree to prominently include the attribution “CEDA by Watershed” (a) wherever emissions calculations are generated, including emissions reports and excerpts; (b) on users' marketing sites where emission factors are mentioned; and (c) on any part of users’ platform, such as websites, web portals, or other applications where calculations are generated.";;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;Australia;All other converted paper product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Austria;All other food and drinking places
+;;;;;;Quick single-factor lookup;;;;;;;;;;;;;;;;;;Bahamas;All other food manufacturing
+;;;;;;Country;United States;;;;;;;;;;;;;;;;;Bahrain;All other forging, stamping, and sintering
+;;;;;;CEDA category;Management consulting services;;;;;;;;;;;;;;;;;Bangladesh;All other miscellaneous electrical equipment and component manufacturing
+;;;;;;Emission factor in kgCO2e/1000 Yen;0,405;;;;;;;;;;;;;;;;;Barbados;All other miscellaneous manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Belgium;All other miscellaneous professional, scientific, and technical services 
+;;;;;;;;;;;;;;;;;;;;;;;;Belize;All other retail
+;"Technical note:  This is not a year-over-year time series. Changes in the year selection adjust CEDA 2025 emission factors by the sector level price index.
+
+Regional average emission factors are not included in the lookups. See the Reginoal Average EFs tab for regional level emission factors in kgCO2 per 2023 USD.";;;;;;;;;;;;;;;;;;;;;;;Benin;All other transportation equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Bhutan;All other wood product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Bolivia;Alumina refining and primary aluminum production + Aluminum product manufacturing from purchased aluminum
+;;;;;;;;;;;;;;;;;;;;;;;;Brazil;Ammunition, arms, ordnance, and accessories manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Bulgaria;Amusement parks and arcades
+;;;;;;;;;;;;;;;;;;;;;;;;Burkina Faso;Analytical laboratory instrument manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Burundi;Animal (except poultry) slaughtering, rendering, and processing
+;;;;;;;;;;;;;;;;;;;;;;;;Cambodia;Animal production, except cattle and poultry and eggs
+;;;;;;;;;;;;;;;;;;;;;;;;Cameroon;Apparel manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Canada;Architectural, engineering, and related services
+;;;;;;;;;;;;;;;;;;;;;;;;Central African Republic;Asphalt paving mixture and block manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Chad;Asphalt shingle and coating materials manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Chile;Audio and video equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Chinese Taipei;Automatic environmental control manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Colombia;Automobile manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Congo;Automotive equipment rental and leasing
+;;;;;;;;;;;;;;;;;;;;;;;;Costa Rica;Automotive repair and maintenance
+;;;;;;;;;;;;;;;;;;;;;;;;Cote d'Ivoire;Ball and roller bearing manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Croatia;Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming
+;;;;;;;;;;;;;;;;;;;;;;;;Cyprus;Biological product (except diagnostic) manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Czech Republic;Boat building
+;;;;;;;;;;;;;;;;;;;;;;;;Denmark;Book publishers
+;;;;;;;;;;;;;;;;;;;;;;;;Dominica;Bread and bakery product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Dominican Republic;Breakfast cereal manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Ecuador;Breweries
+;;;;;;;;;;;;;;;;;;;;;;;;Egypt;Broadcast and wireless communications equipment
+;;;;;;;;;;;;;;;;;;;;;;;;El Salvador;Building material and garden equipment and supplies dealers
+;;;;;;;;;;;;;;;;;;;;;;;;Equatorial Guinea;Business support services
+;;;;;;;;;;;;;;;;;;;;;;;;Estonia;Cable and other subscription programming
+;;;;;;;;;;;;;;;;;;;;;;;;Ethiopia;Carbon and graphite product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Fiji;Carpet and rug mills
+;;;;;;;;;;;;;;;;;;;;;;;;Finland;Cement manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;France;Cheese manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Gabon;Child day care services
+;;;;;;;;;;;;;;;;;;;;;;;;Gambia;Civic, social, professional, and similar organizations
+;;;;;;;;;;;;;;;;;;;;;;;;Germany;Clay product and refractory manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Greece;Clothing and clothing accessories stores
+;;;;;;;;;;;;;;;;;;;;;;;;Grenada;Coal mining
+;;;;;;;;;;;;;;;;;;;;;;;;Guatemala;Coating, engraving, heat treating and allied activities
+;;;;;;;;;;;;;;;;;;;;;;;;Guinea;Coffee and tea manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Guinea-Bissau;Commercial and industrial machinery and equipment rental and leasing
+;;;;;;;;;;;;;;;;;;;;;;;;Haiti;Commercial and industrial machinery and equipment repair and maintenance
+;;;;;;;;;;;;;;;;;;;;;;;;Honduras;Communication and energy wire and cable manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Hong Kong, China;Community food, housing, and other relief services, including rehabilitation services
+;;;;;;;;;;;;;;;;;;;;;;;;Hungary;Computer storage device manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Iceland;Computer systems design services
+;;;;;;;;;;;;;;;;;;;;;;;;India;Computer terminals and other computer peripheral equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Indonesia;Concrete pipe, brick, and block manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Iran, Islamic Republic of;Construction machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Iraq;Cookie, cracker, pasta, and tortilla manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Ireland;Copper rolling, drawing, extruding and alloying
+;;;;;;;;;;;;;;;;;;;;;;;;Israel;Copper, nickel, lead, and zinc mining
+;;;;;;;;;;;;;;;;;;;;;;;;Italy;Couriers and messengers
+;;;;;;;;;;;;;;;;;;;;;;;;Jamaica;Curtain and linen mills
+;;;;;;;;;;;;;;;;;;;;;;;;Jordan;Custom computer programming services
+;;;;;;;;;;;;;;;;;;;;;;;;Kazakhstan;Custom roll forming
+;;;;;;;;;;;;;;;;;;;;;;;;Kenya;Customs duties
+;;;;;;;;;;;;;;;;;;;;;;;;Kiribati;Cut stone and stone product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Kuwait;Cutlery and handtool manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Lao People’s Democratic Rep.;Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Latvia;Dairy cattle and milk production
+;;;;;;;;;;;;;;;;;;;;;;;;Lebanon;Data processing, hosting, and related services
+;;;;;;;;;;;;;;;;;;;;;;;;Lesotho;Death care services
+;;;;;;;;;;;;;;;;;;;;;;;;Lithuania;Dental equipment and supplies manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Luxembourg;Dental laboratories
+;;;;;;;;;;;;;;;;;;;;;;;;Macedonia, the former Yugoslav Republic of;Direct life insurance carriers
+;;;;;;;;;;;;;;;;;;;;;;;;Malawi;Directory, mailing list, and other publishers
+;;;;;;;;;;;;;;;;;;;;;;;;Malaysia;Distilleries
+;;;;;;;;;;;;;;;;;;;;;;;;Maldives;Dog and cat food manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Mali;Doll, toy, and game manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Malta;Drilling oil and gas wells
+;;;;;;;;;;;;;;;;;;;;;;;;Mauritius;Drugs and druggists’ sundries
+;;;;;;;;;;;;;;;;;;;;;;;;Mexico;Dry, condensed, and evaporated dairy product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Moldova, Republic of;Dry-cleaning and laundry services
+;;;;;;;;;;;;;;;;;;;;;;;;Mongolia;Educational and vocational structures
+;;;;;;;;;;;;;;;;;;;;;;;;Morocco;Electric lamp bulb and part manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Myanmar;Electric power generation, transmission, and distribution
+;;;;;;;;;;;;;;;;;;;;;;;;Namibia;Electricity and signal testing instruments manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Nauru;Electromedical and electrotherapeutic apparatus manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Nepal;Electronic and precision equipment repair and maintenance
+;;;;;;;;;;;;;;;;;;;;;;;;Netherlands;Electronic computer manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;New Zealand;Elementary and secondary schools
+;;;;;;;;;;;;;;;;;;;;;;;;Nicaragua;Employment services
+;;;;;;;;;;;;;;;;;;;;;;;;Niger;Environmental and other technical consulting services
+;;;;;;;;;;;;;;;;;;;;;;;;Nigeria;Fabric mills
+;;;;;;;;;;;;;;;;;;;;;;;;Norway;Fabricated pipe and pipe fitting manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Oman;Facilities support services
+;;;;;;;;;;;;;;;;;;;;;;;;Pakistan;Farm machinery and equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Papua New Guinea;Fats and oils refining and blending
+;;;;;;;;;;;;;;;;;;;;;;;;Paraguay;Federal general government (defense)
+;;;;;;;;;;;;;;;;;;;;;;;;Peru;Federal general government (nondefense)
+;;;;;;;;;;;;;;;;;;;;;;;;Philippines;Ferrous metal foundries
+;;;;;;;;;;;;;;;;;;;;;;;;Poland;Fertilizer manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Portugal;Fiber, yarn, and thread mills
+;;;;;;;;;;;;;;;;;;;;;;;;Qatar;Fishing, hunting and trapping
+;;;;;;;;;;;;;;;;;;;;;;;;Romania;Flavoring syrup and concentrate manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Russian Federation;Flour milling and malt manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Rwanda;Fluid milk and butter manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Saint Kitts and Nevis;Fluid power process machinery
+;;;;;;;;;;;;;;;;;;;;;;;;Saint Lucia;Food and beverage stores
+;;;;;;;;;;;;;;;;;;;;;;;;Saint Vincent and the Grenadines;Forestry and logging
+;;;;;;;;;;;;;;;;;;;;;;;;Samoa;Frozen food manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Saudi Arabia;Fruit and tree nut farming
+;;;;;;;;;;;;;;;;;;;;;;;;Senegal;Fruit and vegetable canning, pickling, and drying
+;;;;;;;;;;;;;;;;;;;;;;;;Seychelles;Full-service restaurants
+;;;;;;;;;;;;;;;;;;;;;;;;Sierra Leone;Funds, trusts, and other financial vehicles
+;;;;;;;;;;;;;;;;;;;;;;;;Singapore;Gambling industries (except casino hotels)
+;;;;;;;;;;;;;;;;;;;;;;;;Slovak Republic;Gasoline stations
+;;;;;;;;;;;;;;;;;;;;;;;;Slovenia;General and consumer goods rental
+;;;;;;;;;;;;;;;;;;;;;;;;Solomon Islands;General merchandise stores
+;;;;;;;;;;;;;;;;;;;;;;;;South Africa;Glass and glass product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Spain;Grain farming
+;;;;;;;;;;;;;;;;;;;;;;;;Sri Lanka;Grantmaking, giving, and social advocacy organizations
+;;;;;;;;;;;;;;;;;;;;;;;;Swaziland;Greenhouse, nursery, and floriculture production
+;;;;;;;;;;;;;;;;;;;;;;;;Sweden;Grocery and related product wholesalers 
+;;;;;;;;;;;;;;;;;;;;;;;;Switzerland;Ground or treated mineral and earth manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Tanzania_United Republic of;Guided missile and space vehicle manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Thailand;Hardware manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Timor-Leste;Health and personal care stores
+;;;;;;;;;;;;;;;;;;;;;;;;Togo;Health care structures
+;;;;;;;;;;;;;;;;;;;;;;;;Trinidad and Tobago;Heating equipment (except warm air furnaces) manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Tunisia;Heavy duty truck manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Turkey;Home health care services
+;;;;;;;;;;;;;;;;;;;;;;;;Uganda;Hospitals
+;;;;;;;;;;;;;;;;;;;;;;;;Ukraine;Household appliances and electrical and electronic goods 
+;;;;;;;;;;;;;;;;;;;;;;;;United Arab Emirates;Household cooking appliance manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Uruguay;Household laundry equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Vanuatu;Household refrigerator and home freezer manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;Viet Nam;Ice cream and frozen dessert manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Independent artists, writers, and performers
+;;;;;;;;;;;;;;;;;;;;;;;;;Individual and family services
+;;;;;;;;;;;;;;;;;;;;;;;;;Industrial and commercial fan and blower and air purification equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Industrial gas manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Industrial mold manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Industrial process furnace and oven manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Industrial process variable instruments manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Institutional furniture manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Insurance agencies, brokerages, and related activities
+;;;;;;;;;;;;;;;;;;;;;;;;;Insurance carriers, except direct life
+;;;;;;;;;;;;;;;;;;;;;;;;;Internet publishing and broadcasting and Web search portals
+;;;;;;;;;;;;;;;;;;;;;;;;;Investigation and security services
+;;;;;;;;;;;;;;;;;;;;;;;;;In-vitro diagnostic substance manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Iron and steel mills and ferroalloy manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Iron, gold, silver, and other metal ore mining
+;;;;;;;;;;;;;;;;;;;;;;;;;Irradiation apparatus manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Jewelry and silverware manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Junior colleges, colleges, universities, and professional schools
+;;;;;;;;;;;;;;;;;;;;;;;;;Laminated plastics plate, sheet (except packaging), and shape manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Lawn and garden equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Leather and allied product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Legal services
+;;;;;;;;;;;;;;;;;;;;;;;;;Lessors of nonfinancial intangible assets
+;;;;;;;;;;;;;;;;;;;;;;;;;Light truck and utility vehicle manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Lighting fixture manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Lime and gypsum product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Limited-service restaurants
+;;;;;;;;;;;;;;;;;;;;;;;;;Machine shops
+;;;;;;;;;;;;;;;;;;;;;;;;;Machine tool manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Machinery, equipment, and supplies 
+;;;;;;;;;;;;;;;;;;;;;;;;;Management consulting services
+;;;;;;;;;;;;;;;;;;;;;;;;;Management of companies and enterprises
+;;;;;;;;;;;;;;;;;;;;;;;;;Manufacturing and reproducing magnetic and optical media
+;;;;;;;;;;;;;;;;;;;;;;;;;Manufacturing structures
+;;;;;;;;;;;;;;;;;;;;;;;;;Material handling equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Mechanical power transmission equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Medical and diagnostic laboratories
+;;;;;;;;;;;;;;;;;;;;;;;;;Medicinal and botanical manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Metal can, box, and other metal container (light gauge) manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Metal crown, closure, and other metal stamping (except automotive)
+;;;;;;;;;;;;;;;;;;;;;;;;;Metal tank (heavy gauge) manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Military armored vehicle, tank, and tank component manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Millwork
+;;;;;;;;;;;;;;;;;;;;;;;;;Mineral wool manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Mining and oil and gas field machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Miscellaneous nonmetallic mineral products
+;;;;;;;;;;;;;;;;;;;;;;;;;Monetary authorities and depository credit intermediation
+;;;;;;;;;;;;;;;;;;;;;;;;;Motion picture and video industries
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor and generator manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor home manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle and motor vehicle parts and supplies
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle and parts dealers
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle body manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle electrical and electronic equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle gasoline engine and engine parts manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle metal stamping
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle seating and interior trim manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle steering, suspension component (except spring), and brake systems manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motor vehicle transmission and power train parts manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Motorcycle, bicycle, and parts manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Multifamily residential structures
+;;;;;;;;;;;;;;;;;;;;;;;;;Museums, historical sites, zoos, and parks
+;;;;;;;;;;;;;;;;;;;;;;;;;Natural gas distribution
+;;;;;;;;;;;;;;;;;;;;;;;;;News syndicates, libraries, archives and all other information services
+;;;;;;;;;;;;;;;;;;;;;;;;;Newspaper publishers
+;;;;;;;;;;;;;;;;;;;;;;;;;Nondepository credit intermediation and related activities
+;;;;;;;;;;;;;;;;;;;;;;;;;Nonferrous Metal (except Aluminum) Smelting and Refining
+;;;;;;;;;;;;;;;;;;;;;;;;;Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying
+;;;;;;;;;;;;;;;;;;;;;;;;;Nonferrous metal foundries
+;;;;;;;;;;;;;;;;;;;;;;;;;Nonresidential maintenance and repair
+;;;;;;;;;;;;;;;;;;;;;;;;;Nonstore retailers
+;;;;;;;;;;;;;;;;;;;;;;;;;Nonupholstered wood household furniture manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Nursing and community care facilities
+;;;;;;;;;;;;;;;;;;;;;;;;;Office administrative services
+;;;;;;;;;;;;;;;;;;;;;;;;;Office and commercial structures
+;;;;;;;;;;;;;;;;;;;;;;;;;Office furniture and custom architectural woodwork and millwork manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Office supplies (except paper) manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Offices of dentists
+;;;;;;;;;;;;;;;;;;;;;;;;;Offices of other health practitioners
+;;;;;;;;;;;;;;;;;;;;;;;;;Offices of physicians
+;;;;;;;;;;;;;;;;;;;;;;;;;Oil and gas extraction
+;;;;;;;;;;;;;;;;;;;;;;;;;Oilseed farming
+;;;;;;;;;;;;;;;;;;;;;;;;;Ophthalmic goods manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Optical instrument and lens manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Ornamental and architectural metal products manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other aircraft parts and auxiliary equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other ambulatory health care services
+;;;;;;;;;;;;;;;;;;;;;;;;;Other amusement and recreation industries
+;;;;;;;;;;;;;;;;;;;;;;;;;Other animal food manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other Basic Inorganic Chemical Manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other basic organic chemical manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other commercial and service industry machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other communications equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other computer related services, including facilities management
+;;;;;;;;;;;;;;;;;;;;;;;;;Other concrete product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other crop farming
+;;;;;;;;;;;;;;;;;;;;;;;;;Other durable goods merchant wholesalers
+;;;;;;;;;;;;;;;;;;;;;;;;;Other educational services
+;;;;;;;;;;;;;;;;;;;;;;;;;Other electronic component manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other engine equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other fabricated metal manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other federal government enterprises
+;;;;;;;;;;;;;;;;;;;;;;;;;Other financial investment activities
+;;;;;;;;;;;;;;;;;;;;;;;;;Other furniture related product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other general purpose machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other household nonupholstered furniture
+;;;;;;;;;;;;;;;;;;;;;;;;;Other industrial machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other major household appliance manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other Motor Vehicle Parts Manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other nondurable goods merchant wholesalers
+;;;;;;;;;;;;;;;;;;;;;;;;;Other nonmetallic mineral mining and quarrying
+;;;;;;;;;;;;;;;;;;;;;;;;;Other nonresidential structures
+;;;;;;;;;;;;;;;;;;;;;;;;;Other personal services
+;;;;;;;;;;;;;;;;;;;;;;;;;Other petroleum and coal products manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other plastics product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other real estate
+;;;;;;;;;;;;;;;;;;;;;;;;;Other residential structures
+;;;;;;;;;;;;;;;;;;;;;;;;;Other rubber product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Other state and local government enterprises
+;;;;;;;;;;;;;;;;;;;;;;;;;Other support activities for mining
+;;;;;;;;;;;;;;;;;;;;;;;;;Other support services
+;;;;;;;;;;;;;;;;;;;;;;;;;Other textile product mills
+;;;;;;;;;;;;;;;;;;;;;;;;;Outpatient care centers
+;;;;;;;;;;;;;;;;;;;;;;;;;Owner-occupied housing
+;;;;;;;;;;;;;;;;;;;;;;;;;Packaging machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Paint and coating manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Paper Bag and Coated and Treated Paper Manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Paper mills
+;;;;;;;;;;;;;;;;;;;;;;;;;Paperboard container manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Paperboard mills
+;;;;;;;;;;;;;;;;;;;;;;;;;Performing arts companies
+;;;;;;;;;;;;;;;;;;;;;;;;;Periodical Publishers
+;;;;;;;;;;;;;;;;;;;;;;;;;Personal and household goods repair and maintenance
+;;;;;;;;;;;;;;;;;;;;;;;;;Personal care services
+;;;;;;;;;;;;;;;;;;;;;;;;;Pesticide and other agricultural chemical manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Petrochemical manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Petroleum and petroleum products
+;;;;;;;;;;;;;;;;;;;;;;;;;Petroleum refineries
+;;;;;;;;;;;;;;;;;;;;;;;;;Pharmaceutical preparation manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Photographic and photocopying equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Photographic services
+;;;;;;;;;;;;;;;;;;;;;;;;;Pipeline transportation
+;;;;;;;;;;;;;;;;;;;;;;;;;Plastics bottle manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Plastics material and resin manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Plastics packaging materials and unlaminated film and sheet manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Plate work and fabricated structural product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Plumbing fixture fitting and trim manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Polystyrene foam product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Postal service
+;;;;;;;;;;;;;;;;;;;;;;;;;Poultry and egg production
+;;;;;;;;;;;;;;;;;;;;;;;;;Poultry processing
+;;;;;;;;;;;;;;;;;;;;;;;;;Power and communication structures
+;;;;;;;;;;;;;;;;;;;;;;;;;Power boiler and heat exchanger manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Power, distribution, and specialty transformer manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Power-driven handtool manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Primary battery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Printed circuit assembly (electronic assembly) manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Printing
+;;;;;;;;;;;;;;;;;;;;;;;;;Printing ink manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Private households
+;;;;;;;;;;;;;;;;;;;;;;;;;Professional and commercial equipment and supplies
+;;;;;;;;;;;;;;;;;;;;;;;;;Promoters of performing arts and sports and agents for public figures
+;;;;;;;;;;;;;;;;;;;;;;;;;Propulsion units and parts for space vehicles and guided missiles
+;;;;;;;;;;;;;;;;;;;;;;;;;Pulp mills
+;;;;;;;;;;;;;;;;;;;;;;;;;Pump and pumping equipment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Radio and television broadcasting
+;;;;;;;;;;;;;;;;;;;;;;;;;Rail transportation
+;;;;;;;;;;;;;;;;;;;;;;;;;Railroad rolling stock manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Ready-mix concrete manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Relay and industrial control manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Religious organizations
+;;;;;;;;;;;;;;;;;;;;;;;;;Residential maintenance and repair
+;;;;;;;;;;;;;;;;;;;;;;;;;Residential mental health, substance abuse, and other residential care facilities
+;;;;;;;;;;;;;;;;;;;;;;;;;Rubber and plastics hoses and belting manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Sanitary paper product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Satellite, telecommunications resellers, and all other telecommunications
+;;;;;;;;;;;;;;;;;;;;;;;;;Sawmills and wood preservation
+;;;;;;;;;;;;;;;;;;;;;;;;;Scenic and sightseeing transportation and support activities for transportation
+;;;;;;;;;;;;;;;;;;;;;;;;;Scientific research and development services
+;;;;;;;;;;;;;;;;;;;;;;;;;Seafood product preparation and packaging
+;;;;;;;;;;;;;;;;;;;;;;;;;Search, detection, and navigation instruments manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Seasoning and dressing manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Securities and commodity contracts intermediation and brokerage
+;;;;;;;;;;;;;;;;;;;;;;;;;Semiconductor and related device manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Semiconductor machinery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Services to buildings and dwellings
+;;;;;;;;;;;;;;;;;;;;;;;;;Ship building and repairing
+;;;;;;;;;;;;;;;;;;;;;;;;;Showcase, partition, shelving, and locker manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Sign manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Single-family residential structures
+;;;;;;;;;;;;;;;;;;;;;;;;;Small electrical appliance manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Snack food manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Soap and cleaning compound manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Soft drink and ice manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Software publishers
+;;;;;;;;;;;;;;;;;;;;;;;;;Sound recording industries
+;;;;;;;;;;;;;;;;;;;;;;;;;Soybean and other oilseed processing
+;;;;;;;;;;;;;;;;;;;;;;;;;Special tool, die, jig, and fixture manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Specialized design services
+;;;;;;;;;;;;;;;;;;;;;;;;;Spectator sports
+;;;;;;;;;;;;;;;;;;;;;;;;;Speed changer, industrial high-speed drive, and gear manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Sporting and athletic goods manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Spring and wire product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;State and local government educational services
+;;;;;;;;;;;;;;;;;;;;;;;;;State and local government hospitals and health services
+;;;;;;;;;;;;;;;;;;;;;;;;;State and local government other services
+;;;;;;;;;;;;;;;;;;;;;;;;;Stationery product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Steel product manufacturing from purchased steel
+;;;;;;;;;;;;;;;;;;;;;;;;;Stone mining and quarrying
+;;;;;;;;;;;;;;;;;;;;;;;;;Storage battery manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Sugar and confectionery product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Support activities for agriculture and forestry
+;;;;;;;;;;;;;;;;;;;;;;;;;Support activities for printing
+;;;;;;;;;;;;;;;;;;;;;;;;;Surgical and medical instrument manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Surgical appliance and supplies manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Switchgear and switchboard apparatus manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Synthetic dye and pigment manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Synthetic rubber and artificial and synthetic fibers and filaments manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Telephone apparatus manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Tenant-occupied housing
+;;;;;;;;;;;;;;;;;;;;;;;;;Textile and fabric finishing and fabric coating mills
+;;;;;;;;;;;;;;;;;;;;;;;;;Tire manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Tobacco product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Toilet preparation manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Totalizing fluid meter and counting device manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Transit and ground passenger transportation
+;;;;;;;;;;;;;;;;;;;;;;;;;Transportation structures and highways and streets
+;;;;;;;;;;;;;;;;;;;;;;;;;Travel arrangement and reservation services
+;;;;;;;;;;;;;;;;;;;;;;;;;Travel trailer and camper manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Truck trailer manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Truck transportation
+;;;;;;;;;;;;;;;;;;;;;;;;;Turbine and turbine generator set units manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Turned product and screw, nut, and bolt manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Upholstered household furniture manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Urethane and other foam product (except polystyrene) manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Valve and fittings other than plumbing
+;;;;;;;;;;;;;;;;;;;;;;;;;Vegetable and melon farming
+;;;;;;;;;;;;;;;;;;;;;;;;;Veneer, plywood, and engineered wood product manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Veterinary services
+;;;;;;;;;;;;;;;;;;;;;;;;;Warehousing and storage
+;;;;;;;;;;;;;;;;;;;;;;;;;Waste management and remediation services
+;;;;;;;;;;;;;;;;;;;;;;;;;Watch, clock, and other measuring and controlling device manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Water transportation
+;;;;;;;;;;;;;;;;;;;;;;;;;Water, sewage and other systems
+;;;;;;;;;;;;;;;;;;;;;;;;;Wet corn milling
+;;;;;;;;;;;;;;;;;;;;;;;;;Wholesale electronic markets and agents and brokers
+;;;;;;;;;;;;;;;;;;;;;;;;;Wineries
+;;;;;;;;;;;;;;;;;;;;;;;;;Wired telecommunications carriers
+;;;;;;;;;;;;;;;;;;;;;;;;;Wireless telecommunications carriers (except satellite)
+;;;;;;;;;;;;;;;;;;;;;;;;;Wiring device manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;Wood kitchen cabinet and countertop manufacturing
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
