@@ -4,7 +4,6 @@ EcoPredict Carbon - Scenario-based parametric projection module.
 
 Mục đích:
 - Sử dụng mô hình kịch bản tham số minh bạch cho giai đoạn 2025–2050.
-- Không yêu cầu chuỗi thời gian dài.
 - PCF tương lai = PCF nền × tổ hợp factor theo từng giai đoạn vòng đời.
 """
 from __future__ import annotations
