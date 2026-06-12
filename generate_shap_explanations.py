@@ -1,6 +1,5 @@
 """
 generate_shap_explanations.py
-Tạo SHAP plots từ model package đã train sẵn mà không cần huấn luyện lại toàn bộ.
 
 Chạy:
     python generate_shap_explanations.py
