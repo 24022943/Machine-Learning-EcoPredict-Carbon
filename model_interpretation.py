@@ -2,7 +2,6 @@
 model_interpretation.py
 SHAP/XAI helpers cho EcoPredict Carbon.
 
-Có thể dùng độc lập hoặc gọi trong train_advanced_models.py/generate_shap_explanations.py.
 """
 from __future__ import annotations
 
