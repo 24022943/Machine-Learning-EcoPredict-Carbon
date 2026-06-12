@@ -1,17 +1,9 @@
 """
 train_advanced_models.py
-EcoPredict Carbon v7 training pipeline.
+EcoPredict Carbon - training pipeline.
 
 Chạy:
     python train_advanced_models.py
-
-Nâng cấp chính:
-- Multi-source data: Carbon Catalogue + OpenPCF + Open CEDA factors.
-- OpenPCF-focused stratified split để tập test có đủ Low/Medium/High, đặc biệt lớp High.
-- Classification + regression.
-- Uncertainty interval dựa trên residual và ensemble regressors.
-- OOD profile để hiển thị mềm trên web.
-- Permutation importance và SHAP để giải thích mô hình.
 """
 from __future__ import annotations
 
