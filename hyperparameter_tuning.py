@@ -2,11 +2,6 @@
 hyperparameter_tuning.py
 EcoPredict Carbon - lightweight GridSearchCV tuning.
 
-Mục tiêu:
-- Chạy nhanh trên máy cá nhân/Streamlit repo.
-- Tạo bảng outputs/tables/hyperparameter_tuning_results.csv.
-- Tạo hình outputs/figures/hyperparameter_tuning_comparison.png.
-
 Chạy:
     python hyperparameter_tuning.py
 """
