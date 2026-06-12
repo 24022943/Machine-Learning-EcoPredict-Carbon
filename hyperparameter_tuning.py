@@ -1,6 +1,6 @@
 """
 hyperparameter_tuning.py
-EcoPredict Carbon - lightweight GridSearchCV tuning for Streamlit/report.
+EcoPredict Carbon - lightweight GridSearchCV tuning.
 
 Mục tiêu:
 - Chạy nhanh trên máy cá nhân/Streamlit repo.
