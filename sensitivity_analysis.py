@@ -2,9 +2,6 @@
 sensitivity_analysis.py
 Phân tích độ nhạy cho EcoPredict Carbon.
 
-Trả lời câu hỏi:
-- Nếu emission factor của vật liệu/năng lượng/vận chuyển thay đổi ±20%, PCF đổi bao nhiêu?
-- Driver nào cần ưu tiên kiểm soát dữ liệu hoặc cải tiến phát thải?
 """
 from __future__ import annotations
 
