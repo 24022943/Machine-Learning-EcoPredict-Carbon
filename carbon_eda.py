@@ -1,6 +1,6 @@
 """
 carbon_eda.py
-EDA for EcoPredict Carbon v7.
+EDA for EcoPredict Carbon.
 
 Chạy:
     python carbon_eda.py
