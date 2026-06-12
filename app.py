@@ -1,6 +1,6 @@
 """
 app.py
-EcoPredict Carbon v7 Streamlit app - bản dùng scenario-based projection.
+EcoPredict Carbon trên Streamlit app.
 
 Chạy:
     python -m streamlit run app.py
