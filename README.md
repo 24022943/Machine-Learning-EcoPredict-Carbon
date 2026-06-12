@@ -164,27 +164,6 @@ Chưa phù hợp để:
 
 Nếu metric như accuracy hoặc ROC AUC rất cao, không nên hiểu là mô hình hoàn hảo. Với bài toán này, nhãn Low/Medium/High được xây dựng từ ngưỡng PCF, đồng thời một số đặc trưng có liên quan đến emission factor. Vì vậy cần ưu tiên xem `F1-macro`, `Balanced Accuracy`, `recall_high`, confusion matrix và kiểm thử hold-out theo sản phẩm/quốc gia/thời gian.
 
-## 7. Bản v8 OpenPCF-focused
-
-Bản này đã được chỉnh để tập trung vào OpenPCF thay vì chỉ lấy mẫu nhỏ 1.000 dòng như phiên bản trước.
-
-- OpenPCF hợp lệ: khoảng 22.886 dòng.
-- Tập huấn luyện thực tế dùng stratified sample 12.000 dòng để chạy ổn trên máy cá nhân/Streamlit Cloud.
-- Phân phối nhãn sau split:
-  - Train: Low 2463, Medium 4755, High 2382.
-  - Test: Low 616, Medium 1188, High 596.
-- Mô hình phân loại tốt nhất: Random Forest + High-threshold tuned.
-- Recall High trên test: 1.0 trong bản split OpenPCF-focused.
-- Mô hình hồi quy tốt nhất: Extra Trees Regressor.
-
-Lưu ý học thuật: kết quả tốt hơn vì test đã có đủ mẫu High và dữ liệu OpenPCF đồng nhất hơn theo đơn vị kgCO2e/kg. Đây vẫn là prototype hỗ trợ phân tích sơ bộ, không thay thế kiểm kê LCA chính thức hoặc chứng nhận ISO/EPD.
-
-Lệnh train lại bản OpenPCF-focused:
-
-```powershell
-python train_advanced_models.py
-python -m streamlit run app.py
-```
 
 Nếu cần sinh lại SHAP sau khi train:
 
