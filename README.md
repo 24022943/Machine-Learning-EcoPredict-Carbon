@@ -2,6 +2,9 @@
 
 EcoPredict Carbon là prototype nghiên cứu hỗ trợ ước lượng Product Carbon Footprint (PCF), benchmark theo ngành, giải thích yếu tố ảnh hưởng bằng Machine Learning và mô phỏng kịch bản phát thải theo định hướng LCA/ISO. Hệ thống dùng để hỗ trợ phân tích sơ bộ, không thay thế kiểm kê LCA chính thức hoặc chứng nhận ISO/EPD.
 
+🌐 **Truy cập ứng dụng Streamlit:**
+https://ecopredict-carbon---machine-learning-hethongdubao.streamlit.app/
+
 ## 1. File chính
 
 - `app.py`: giao diện Streamlit.
